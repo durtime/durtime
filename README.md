@@ -9,7 +9,7 @@ I'm durtime,a new company's people on the way to study
 
 😁 I will share my own projects and experiences in the learning process.
 Hope we can make progress together 😁
-
+![](https://img.shields.io/badge/Blog-Durtime-blue)
 <!--
 **durtime/durtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
