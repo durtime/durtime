@@ -1,5 +1,5 @@
 ### Hi there 👋
-welcome to my blog http:///my.durtime.top
+welcome to my blog http://my.durtime.top
 
 I'm durtime,a new company's people on the way to study
 
