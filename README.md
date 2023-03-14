@@ -1,6 +1,6 @@
 ### Hi there 👋
 welcome to my blog http://my.durtime.top
-welcome to my git blog [http://my.durtime.top](https://durtime.github.io/blog/)
+welcome to my git blog https://durtime.github.io/blog/
 
 
 I'm durtime,a new company's people on the way to study
